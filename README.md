@@ -31,3 +31,22 @@ Ejecutar las pruebas:
 pytest
 Autor
 German Amiquero Peralta
+
+
+
+## Objetivo del ejercicio
+Implementar pruebas automatizadas en Python utilizando pytest para validar el correcto funcionamiento de una calculadora básica con operaciones matemáticas simples.
+
+## Herramientas utilizadas
+- Python 3
+- Pytest
+- Git
+- GitHub
+- Visual Studio Code
+
+## Ejecución de pytest
+
+Para ejecutar las pruebas automatizadas se utilizó el siguiente comando:
+
+```bash
+pytest
